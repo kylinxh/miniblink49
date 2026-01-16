@@ -1,22 +1,30 @@
 # 声明
 
-鉴于最近发生的一些不愉快的事情（没错，说的就是那些直接把代码拿去改个名字就开始卖钱的人），
+miniblink 108内核版本和华为达成战略合作，已经在华为欧拉系统里开源https://gitee.com/openeuler/liteview 。
 
-深思熟虑后决定自2019-6-17起将新开一个分支，并逐步减少此仓库的更新
+而本仓库收藏的是较老的49内核版本。如果需要更新的，可以参考上述108内核版本。
 
-后续更新将以二进制及头文件方式发布，请持续关注。
+miniblink132内核也即将开源，大家敬请期待。
+
+可执行文件及头文件下载地址（含最新的132版本）：https://github.com/weolar/miniblink49/releases
 
 希望大家尊重开源，尊重作者全职几年持续更新付出的劳动。
 
-**且用且珍惜**
+如需获得后续技术支持，请使用以下联系方式：
 
-如需获得后续支持，请使用以下联系方式：
+开发者论坛：https://bbs.miniblink.com/ （注册后，需要加我QQ告诉我，我才能验证通过）
 
-Q群：94093808
+加微信群：![wx_group](https://miniblink.net/images/wx_group.png)
+
+Telegram群：https://t.me/miniblink
+
+Q群：738349226（可加）、94093808（已满勿加）
 
 QQ（weolar）：93527630
 
 email：weolar@miniblink.net
+
+微信：可发邮箱咨询我微信号。暂时不放到github了
 
 
 # 简介 Abstract
@@ -56,7 +64,7 @@ miniblink是一个开源的、单文件、且目前已知的最小的基于chrom
 
 关于miniblink的介绍见这篇文章：https://zhuanlan.zhihu.com/p/22611497?group_id=764036386641707008
 
-API文档见：https://miniblink.net/doc-main.html 
+API文档见：https://miniblink.net/views/doc/index.html 
 
 ----
 
@@ -96,11 +104,13 @@ mini-electron项目是一个基于miniblink的独立项目，旨在创建一个�
 
 大家有问题可以选择：
 
-- 加Q群94093808
+- 加微信群：![wx_group](https://miniblink.net/images/wx_group.png)
 
 - 邮箱weolar@miniblink.net
 
 - github里留言issue讨论
+
+- 加Q群94093808
 
 - 关注知乎专栏：https://zhuanlan.zhihu.com/chrome
 
